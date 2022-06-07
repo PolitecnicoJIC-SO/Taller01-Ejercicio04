@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE listaVentas SYSTEM "Ejercicio 4.dtd">
+
+<listaVentas>
+
+    <venta>
+        <importe>12000</importe>
+        <comprador>Sebastian Ospina</comprador>
+        <vendedor>Alejandro Vera</vendedor>
+        <fecha>04-05-2022</fecha>
+        <codigoFactura>F1-01</codigoFactura>
+    </venta>
+
+    <venta>
+        <importe>15000</importe>
+        <comprador>Sebastian Ospina</comprador>
+        <vendedor>Alejandro Vera</vendedor>
+        <codigoFactura>F2-01</codigoFactura>
+    </venta>
+
+</listaVentas>
