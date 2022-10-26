@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE listaVentas SYSTEM "Ejercicio 4.dtd">
+<!-- <!DOCTYPE listaVentas SYSTEM "Ejercicio 4.dtd"> -->
 
-<listaVentas>
+<listaVentas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Ejercicio 4.xsd">
 
     <venta>
         <importe>12000</importe>
         <comprador>Sebastian Ospina</comprador>
         <vendedor>Alejandro Vera</vendedor>
-        <fecha>04-05-2022</fecha>
+        <fecha>2022-05-04</fecha>
         <codigoFactura>F1-01</codigoFactura>
     </venta>
 
